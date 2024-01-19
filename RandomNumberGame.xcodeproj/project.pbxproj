@@ -11,6 +11,7 @@
 		7BA9AD012B5A57A4000A9303 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA9AD002B5A57A4000A9303 /* ContentView.swift */; };
 		7BA9AD032B5A57A6000A9303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BA9AD022B5A57A6000A9303 /* Assets.xcassets */; };
 		7BA9AD062B5A57A6000A9303 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BA9AD052B5A57A6000A9303 /* Preview Assets.xcassets */; };
+		7BA9AD0E2B5A5801000A9303 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA9AD0D2B5A5801000A9303 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7BA9AD002B5A57A4000A9303 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7BA9AD022B5A57A6000A9303 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BA9AD052B5A57A6000A9303 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7BA9AD0D2B5A5801000A9303 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		7BA9ACFD2B5A57A4000A9303 /* RandomNumberGame */ = {
 			isa = PBXGroup;
 			children = (
+				7BA9AD0C2B5A57E2000A9303 /* Models */,
 				7BA9ACFE2B5A57A4000A9303 /* RandomNumberGameApp.swift */,
 				7BA9AD002B5A57A4000A9303 /* ContentView.swift */,
 				7BA9AD022B5A57A6000A9303 /* Assets.xcassets */,
@@ -65,6 +68,14 @@
 				7BA9AD052B5A57A6000A9303 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7BA9AD0C2B5A57E2000A9303 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7BA9AD0D2B5A5801000A9303 /* Game.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BA9AD012B5A57A4000A9303 /* ContentView.swift in Sources */,
+				7BA9AD0E2B5A5801000A9303 /* Game.swift in Sources */,
 				7BA9ACFF2B5A57A4000A9303 /* RandomNumberGameApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
