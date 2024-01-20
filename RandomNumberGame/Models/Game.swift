@@ -18,7 +18,7 @@ struct Game {
         let guessNum = lround(guess*100)
         let check = lround(target*100)
         if guessNum == check {
-            msg = "Correct! \n You make it in \(round) Round"
+            msg = "Correct! \n You make it in \(round) round"
             win = true
         } else if guessNum < check {
             msg = "Higher!"
