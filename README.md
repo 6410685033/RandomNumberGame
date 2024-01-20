@@ -39,8 +39,8 @@ The **hint message** tells the player whether the guessed number is higher or lo
 <img src="media/restart.png" width=30%>
 
 ### Contact
-Thammasat Thonggamgaew (Pond)  
-Tel: (+66) 087 704 4428  
-Email: pond.thammasat@gmail.com  
-University Email: thammasat.tho@dome.tu.ac.th  
-Faculty Email: 6410685033@student.tu.ac.th  
+- Thammasat Thonggamgaew (Pond)
+- Tel: (+66) 087 704 4428
+- Email: pond.thammasat@gmail.com
+- University Email: thammasat.tho@dome.tu.ac.th
+- Faculty Email: 6410685033@student.tu.ac.th
