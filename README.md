@@ -2,7 +2,8 @@
 
 # CN436_AS1: Random Number Game
 
-An iOS Random Number Game 
+An iOS Random Number Game
+[Demo Clip]()
 
 ## Table of Contents
 
@@ -10,7 +11,6 @@ An iOS Random Number Game
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [How to play](#how-to-play)
-  - [Features](#features)
   - [Contact](#contact)
 
 ## Objective
@@ -38,7 +38,9 @@ The **hint message** tells the player whether the guessed number is higher or lo
 - After click OK, the game will reset and the player can play again.
 <img src="media/restart.png" width=30%>
 
-### Features
-
-
 ### Contact
+Thammasat Thonggamgaew (Pond)
+Tel: (+66) 087 704 4428
+Email: pond.thammasat@gmail.com
+University Email: thammasat.tho@dome.tu.ac.th
+Faculty Email: 6410685033@student.tu.ac.th
