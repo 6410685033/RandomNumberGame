@@ -22,13 +22,21 @@ The **hint message** tells the player whether the guessed number is higher or lo
 
 ### How to play
 
-- In the beginning, the game will generate a random integer that player will have to guess 
+- In the beginning, the game will generate a random integer that player will have to guess.
 <img src="media/start.png" width=30%>
 
-- Player can scroll the slider to increase/decrease the number that you want to guess. Once you're ready, Click `Guess` to submit the answer
+- Player can scroll the slider to increase/decrease the number that you want to guess. Once you're ready, Click `Guess` to submit the answer.
 <img src="media/firstGuess.png" width=30%>
 
-- the game will pop up the message to tell you whether the guessed number is higher or lower than the correct (target) number.
+- The game will pop up the message to tell the player whether the guessed number is higher or lower than the correct (target) number.
+<img src="media/higher.png" width=30%>
+<img src="media/lower.png" width=30%>
+
+- Once the player submits the correct number, the game will display a message confirming their success along with the total number of guesses made.
+<img src="media/correct.png" width=30%>
+
+- After click OK, the game will reset and the player can play again.
+<img src="media/restart.png" width=30%>
 
 ### Features
 
