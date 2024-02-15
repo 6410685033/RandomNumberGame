@@ -17,15 +17,15 @@ struct Game {
     mutating func check(guess: Double) {
         let guessNum = lround(guess*100)
         let check = lround(target*100)
+        round += 1
+        
         if guessNum == check {
             msg = "Correct! \n You make it in \(round) round"
             win = true
         } else if guessNum < check {
             msg = "Higher!"
-            round += 1
         } else {
             msg = "Lower!"
-            round += 1
         }
     return
     }
@@ -33,6 +33,7 @@ struct Game {
     mutating func startNewGame() {
         round = 0
         target = Double.random(in: 0...1)
+        win = false
     }
     
     static func value(num: Double) -> Int{

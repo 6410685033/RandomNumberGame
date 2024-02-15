@@ -2,8 +2,8 @@
 
 # CN436_AS1: Random Number Game
 
-An iOS Random Number Game
-[Demo Clip]()
+An iOS Random Number Game  
+[Demo Clip](https://youtu.be/zz4CjgcG0uM?si=9JnFS6dRKqNiGF-W)
 
 ## Table of Contents
 
